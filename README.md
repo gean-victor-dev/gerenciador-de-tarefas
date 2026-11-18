@@ -11,7 +11,7 @@ Aplicação web simples de gerenciamento de tarefas desenvolvida com HTML, CSS e
 ## Tecnologias Utilizadas
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript 
 
 ## Como executar
 Basta clonar o repositório e abrir o arquivo `index.html` em qualquer navegador web.
